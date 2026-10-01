@@ -1,2 +1,3 @@
 local 
 czwartek 
+dev2 czwarta linia 
