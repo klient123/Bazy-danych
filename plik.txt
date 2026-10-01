@@ -1,3 +1,5 @@
 local 
 czwartek 
 dev2 czwarta linia 
+i kolejna zmianadev1 czwarta linia 
+
